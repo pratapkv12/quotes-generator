@@ -4,7 +4,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    background: linear-gradient(135deg, #ff7e5f, #feb47b); /* Example gradient */
+    background: linear-gradient(135deg, #0f2027, #2c5364);
     color: white;
 }
 
